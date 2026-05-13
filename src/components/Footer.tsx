@@ -12,7 +12,7 @@ export default function Footer() {
     <footer className="py-12 px-6 border-t border-white/5 bg-[#0a0a0a]">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
         <div className="text-white/50 text-sm font-light">
-          © {new Date().getFullYear()} Behzod Abdug‘afforov. Next.js va Framer Motion yordamida yaratildi.
+          © {new Date().getFullYear()} Behzod Abdug‘afforov. Barcha huquqlar himoyalangan.
         </div>
 
         <div className="flex items-center space-x-8">
